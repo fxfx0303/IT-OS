@@ -1,0 +1,11 @@
+{
+  "max_question": 20,
+  "seed": 42,
+  "train_batch_size": 16,
+  "test_batch_size": 16,
+  "learning_rate": 0.001,
+  "lr_backbone": 0.00001,
+  "masks": 0,
+  "dilation": 0,
+  "backbone": "resnet101"
+}
