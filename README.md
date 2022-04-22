@@ -1,6 +1,6 @@
 # Data
 
-The VID-sentence dataset can download from https://github.com/JeffCHEN2017/VID-Sentence.git. Then put it into the folder VID-Sentence-master.
+The VID-sentence dataset can download from https://github.com/JeffCHEN2017/VID-Sentence.git.
 
 # Training
 ```python
