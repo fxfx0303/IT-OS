@@ -1,6 +1,6 @@
 # Data
 
-The VID-sentence dataset can download from https://github.com/JeffCHEN2017/VID-Sentence.git.
+The VidSTG dataset can download from https://github.com/Guaranteer/VidSTG-Dataset
 
 # Training
 ```python
